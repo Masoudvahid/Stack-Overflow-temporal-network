@@ -4,6 +4,7 @@ Stack Overflow temporal network
 In this network we have answer interactions with the timestamps which have been taken place in Stack Overflow website.   
 So the purpose is to analyse the network using different tools and methods.   
 [Here](https://github.com/Masoudvahid/complex_networks_project/blob/main/Stack%20Overflow%20temporal%20network.pptx) is the presentation for this network   
+and [Here](https://github.com/Masoudvahid/complex_networks_project/blob/main/reaseach.ipynb) you can find the codes used in this project.
 
 [Here](https://snap.stanford.edu/data/sx-stackoverflow.html) is the link for used dataset.   
 
