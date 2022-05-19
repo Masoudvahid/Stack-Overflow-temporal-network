@@ -3,7 +3,7 @@ Stack Overflow temporal network
 
 In this network we have answer interactions with the timestamps which have been taken place in Stack Overflow website.   
 So the purpose is to analyse the network using different tools and methods.   
-Here is the presentation for this network   
+[Here](Stack Overflow temporal network.pptx) is the presentation for this network   
 
 [Here](https://snap.stanford.edu/data/sx-stackoverflow.html) is the link for used dataset.   
 
